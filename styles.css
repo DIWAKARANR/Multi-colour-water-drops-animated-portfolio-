@@ -15,8 +15,8 @@
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
-    color: var(--text-color);
-    background-color: green;
+    color: darkblue;
+    background-color: white ;
     overflow-x: hidden;
 }
 
