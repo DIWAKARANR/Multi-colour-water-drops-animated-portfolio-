@@ -42,7 +42,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: var(--text-color);
+    color: #33cc33;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -76,7 +76,7 @@ h2 {
 }
 
 footer {
-    background-color: rgba(44, 62, 80, 0.9);
+    background-color: #00ffff;
     padding: 1rem;
     text-align: center;
 }
@@ -104,6 +104,7 @@ footer {
 }
 
 .water-drop {
+    color:#99ffff;
     position: absolute;
     border-radius: 50%;
     animation: fall linear, grow ease-out;
